@@ -1,1 +1,2 @@
 git init （把当前目录变为git可管理的仓库）
+git add 文件名  （把文件添加到git仓库）
