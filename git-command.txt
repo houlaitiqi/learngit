@@ -1,3 +1,5 @@
 git init （把当前目录变为git可管理的仓库）
 git add 文件名  （把文件添加到git仓库）
-git commit -m "备注"  （把文件提交到仓库）
+git commit -m "备注"  （把添加的文件提交到本地仓库）
+git log  （查看详细提交日志）
+git log --pretty=oneline  （查看简洁提交日志）
