@@ -6,4 +6,3 @@ git log --pretty=oneline  （查看简洁提交日志）
 git reset --hard HEAD^  （代码回退，HEAD^上个版本，HEAD^^上上个版本。HEAD~100回退到100个版本前）
 git reset --hard 对应版本号  （恢复到指定版本号的版本）
 git reflog  （记录每一次git操作命令）
-git status  （查看当前状态）
