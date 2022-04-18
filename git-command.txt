@@ -7,5 +7,5 @@ git reset --hard HEAD^  £¨´úÂë»ØÍË£¬HEAD^ÉÏ¸ö°æ±¾£¬HEAD^^ÉÏÉÏ¸ö°æ±¾¡£HEAD~100»ØÍ
 git reset --hard ¶ÔÓ¦°æ±¾ºÅ  £¨»Ö¸´µ½Ö¸¶¨°æ±¾ºÅµÄ°æ±¾£©
 git reflog  £¨¼ÇÂ¼Ã¿Ò»´Îgit²Ù×÷ÃüÁî£©
 git status  £¨²é¿´µ±Ç°×´Ì¬£©
-git checkout -- ÎÄ¼şÃû  £¨³·Ïú¹¤×÷ÇøµÄĞŞ¸Ä£©
-git reset HEAD ÎÄ¼şÃû
+git checkout -- ÎÄ¼şÃû  £¨³·Ïú¹¤×÷ÇøµÄÄ³¸öÎÄ¼şĞŞ¸Ä£©
+git reset HEAD ÎÄ¼şÃû  £¨³·ÏúÔİ´æÇøµÄĞŞ¸Ä£©
