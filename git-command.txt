@@ -8,3 +8,4 @@ git reset --hard 对应版本号  （恢复到指定版本号的版本）
 git reflog  （记录每一次git操作命令）
 git status  （查看当前状态）
 git checkout -- 文件名  （撤销工作区的修改）
+git reset HEAD 文件名
