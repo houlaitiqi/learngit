@@ -8,4 +8,8 @@ git reset --hard 对应版本号  （恢复到指定版本号的版本）
 git reflog  （记录每一次git操作命令）
 git status  （查看当前状态）
 git checkout -- 文件名  （撤销工作区的某个文件修改，包括删除）
-git reset HEAD 文件名  （撤销暂存区的修改，包括删除）	
+git reset HEAD 文件名  （撤销暂存区的修改，包括删除）
+
+git diff  （比较工作区与暂存区）	
+git diff --cached 文件名  （比较暂存区与最新本地版本库，本地版本库最近一次commit的内容）
+git diff HEAD 文件名  （比较工作区与最新本地版本库）
