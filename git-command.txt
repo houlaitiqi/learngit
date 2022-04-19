@@ -14,5 +14,8 @@ git diff  （比较工作区与暂存区）
 git diff --cached 文件名  （比较暂存区与最新本地版本库，本地版本库最近一次commit的内容）
 git diff HEAD 文件名  （比较工作区与最新本地版本库）
 
-
+0->1
 git remote add origin https://github.com/houlaitiqi/learngit.git  （关联本地仓库和远程仓库。houlaitiqi--github的用户名，learngit.git远程仓库名）
+
+git push -u origin master  （把本地仓库推送到远程的仓库中， -u 是指定后面的仓库名和分支名为默认，以后直接用 git push 即可）
+
