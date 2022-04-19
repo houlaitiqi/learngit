@@ -19,3 +19,6 @@ git remote add origin https://github.com/houlaitiqi/learngit.git  （关联本地仓库
 
 git push -u origin master  （把本地仓库推送到远程的仓库中， -u 是指定后面的仓库名和分支名为默认，以后直接用 git push 即可）
 
+git remote -v  （查看远程分支）
+git remote rm 分支名  （删除本地库和远程库的关系。）
+
