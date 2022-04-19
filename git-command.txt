@@ -13,3 +13,6 @@ git reset HEAD 文件名  （撤销暂存区的修改，包括删除）
 git diff  （比较工作区与暂存区）	
 git diff --cached 文件名  （比较暂存区与最新本地版本库，本地版本库最近一次commit的内容）
 git diff HEAD 文件名  （比较工作区与最新本地版本库）
+
+
+git remote add origin https://github.com/houlaitiqi/learngit.git  （关联本地仓库和远程仓库。houlaitiqi--github的用户名，learngit.git远程仓库名）
